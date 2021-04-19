@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  
+  
+
+}
+
+.App-logo {
+  height: 5vmin;
+  pointer-events: none;
+}
+
+.description{
+  font-size: calc(7px + 2vmin);
+}
+
+.pageTitle {
+  font-style: oblique;
+  
+}
+
+
+
+.menu {
+  align-items:center;
+  
+}
+
+
+
+.menu ul {
+  
+  list-style:inside;
+  margin: 2vmin;
+  padding:0;
+}
+
+.AppHeadText {
+  font-size: calc(12px + 2vmin);
+  color: rgb(0,0,0) ;
+}
+
+.sub-header {
+  font-size: calc(10px + 2vmin);
+  color: rgb(216, 181, 181);
+  
+}
+
+.subtitle{
+  font-size: calc(10px + 2vmin);
+  color: rgb(141, 135, 135);
+}
+
+
+.App-header {
+  background-color: #5c1323;
+  min-height: 10vh; /*header height*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(214, 200, 200);
+}
+
+
+
+
